@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(13, 223, 238);
+}
+.main-heading{
+    font-size: 45px;
+    font-weight: 600;
+}
+.login-container{
+    margin: 50px auto;
+    padding: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    align-items: flex-start;
+    background-color: aqua;
+    border-radius: 10px;
+    width: 50vw;
+    min-height: 80vh;
+}
+
+.text-name{
+    margin: 10px;
+    padding: 10px;
+}
+.text-content{
+    margin: 10px;
+    padding: 5px;
+}
+.sign-btn{
+        width: 120px;
+        height: 50px;
+        border-radius: 5px;
+        border-width: 0;
+}
